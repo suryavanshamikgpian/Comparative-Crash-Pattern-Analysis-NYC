@@ -1,0 +1,11 @@
+primary_vehicle_type,Signalized_count,Signalized_pct,Unsignalized_count,Unsignalized_pct
+Sedan,522,41.3,2992,42.2
+Station Wagon/Sport Utility Vehicle,292,23.1,1639,23.1
+Bike,166,13.1,787,11.1
+Box Truck,80,6.3,553,7.8
+Bus,55,4.3,326,4.6
+Taxi,42,3.3,168,2.4
+E-Bike,37,2.9,157,2.2
+Motorcycle,24,1.9,118,1.7
+Pick-up Truck,24,1.9,220,3.1
+E-Scooter,23,1.8,133,1.9

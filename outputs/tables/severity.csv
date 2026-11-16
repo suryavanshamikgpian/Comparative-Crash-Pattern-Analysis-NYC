@@ -1,0 +1,4 @@
+severity,Signalized_count,Signalized_pct,Unsignalized_count,Unsignalized_pct
+Fatal,0,0.0,1,0.0
+Injury,511,35.1,2200,27.8
+No Injury,944,64.9,5710,72.2

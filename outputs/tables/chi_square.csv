@@ -1,0 +1,6 @@
+,column,chi2,p_value,dof,significant_005
+0,severity,32.0917,0.0,2,True
+1,collision_type,27.2193,0.002404,10,True
+2,time_of_day,6.4329,0.169069,4,False
+3,day_of_week,4.4247,0.619399,6,False
+4,primary_vehicle_type,158.4516,0.245122,147,False
